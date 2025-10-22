@@ -40,15 +40,6 @@ A aplicação permite gerenciar tarefas de forma simples e intuitiva:
 
 ---
 
-## 🖼️ Captura de tela
-
-> *(Adicione um print do seu projeto aqui, por exemplo:)*  
-> `src/assets/todo-screenshot.png`
-
-![To-Do List Screenshot](./src/assets/todo-screenshot.png)
-
----
-
 ## 🧠 Conceitos aprendidos / praticados
 
 - Componentização com **standalone components**  
@@ -66,3 +57,35 @@ A aplicação permite gerenciar tarefas de forma simples e intuitiva:
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/todo-list-angular.git
+```
+
+### 2. Instalar dependências
+```bash
+cd todo-list-angular
+npm install
+```
+
+### 3. Rodar o servidor de desenvolvimento
+```bash
+ng serve -o
+```
+
+Acesse: http://localhost:4200
+
+### 📚 Próximas melhorias
+
+* 🌓 Modo claro/escuro
+
+* 🔍 Barra de busca de tarefas
+
+* 🗓️ Filtro por data
+
+* 📱 Melhor responsividade mobile
+
+* ☁️ Integração com backend (API REST)
+
+
+### 👨‍💻 Autor
+Pedro Soares Silva
+📍 Desenvolvido como parte de estudos em Angular e boas práticas de frontend.
+📧 pedrosoarex@outlook.com
