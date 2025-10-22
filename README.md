@@ -87,5 +87,7 @@ Acesse: http://localhost:4200
 
 ### 👨‍💻 Autor
 Pedro Soares Silva
+
 📍 Desenvolvido como parte de estudos em Angular e boas práticas de frontend.
+
 📧 pedrosoarex@outlook.com
