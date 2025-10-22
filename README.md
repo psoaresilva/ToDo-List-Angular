@@ -46,12 +46,14 @@ src/
  └── main.ts
 ```
 ⚙️ Funcionalidades
-Funcionalidade	Descrição
-🧾 Adicionar tarefa	Cria uma nova tarefa com título e descrição.
-🔄 Marcar como concluída	Alterna entre pendente e concluída.
-🗑️ Excluir tarefa	Remove a tarefa definitivamente.
-💽 Salvar localmente	Armazena e carrega tarefas via LocalStorage.
-🌗 Interface moderna	Layout limpo, responsivo e intuitivo, com SCSS.
+
+Funcionalidade	                        Descrição
+
+🧾 Adicionar tarefa	      Cria uma nova tarefa com título e descrição.
+🔄 Marcar como concluída	    Alterna entre pendente e concluída.
+🗑️ Excluir tarefa	             Remove a tarefa definitivamente.
+💽 Salvar localmente	   Armazena e carrega tarefas via LocalStorage.
+🌗 Interface moderna	   Layout limpo, responsivo e intuitivo, com SCSS.
 
 markdown
 Copiar código
