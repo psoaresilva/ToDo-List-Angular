@@ -44,6 +44,7 @@ src/
  ├── assets/
  ├── styles.scss
  └── main.ts
+```
 ⚙️ Funcionalidades
 Funcionalidade	Descrição
 🧾 Adicionar tarefa	Cria uma nova tarefa com título e descrição.
